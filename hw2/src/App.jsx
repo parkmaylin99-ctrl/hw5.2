@@ -1,5 +1,5 @@
-import './components/ViewUsers/ViewUsers';
-import './App.css';
+import './components/ViewUsers/ViewUsers'
+import './App.css'
 
 
 function App() {
