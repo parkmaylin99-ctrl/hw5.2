@@ -1,6 +1,6 @@
 import './components/ViewUsers/ViewUsers'
 import './App.css'
-import ViewUsers from './components/ViewUsers/ViewUsers';
+import ViewUsers from '../src/components/ViewUsers/ViewUsers';
 
 
 function App() {
